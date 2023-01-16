@@ -1,0 +1,25 @@
+Thumbs.db
+
+# Applications
+*.exe
+*.war
+
+obj
+bin
+*.suo
+*.user
+*.sdf
+*.dbmdl
+*.pdb
+.vs
+
+
+*.refactorlog
+*.jfm
+
+
+
+/DataStorage
+/srcServer/Common/VM.Common.APIInterface.ComponentTests/TestResults
+/srcServer/Admin/DAL/VM.Admin.DAL.DB/Import Schema Logs
+/srcClinet/Presentation/Template/BizLand
